@@ -1,0 +1,21 @@
+.container {
+    background-color:slategray;
+    border-radius: 20px;
+    display: flex;
+    padding: 10px;
+    margin: 50px;
+}
+
+.image {
+    margin-left: 15px;
+}
+
+.movieInfo {
+    margin-left: 10px;
+    padding: 10px;
+}
+
+.movieDescription {
+    font-size: large;
+    margin-bottom: 50px;
+}
